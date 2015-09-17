@@ -1,6 +1,6 @@
 # SignalDatacards
 
-## MC4BSM_2012_UFO
+## heftplusdigamma_UFO
 
 UFO format model based on heft with h->ggMET with resonant gg.   
 Contact: Jessie Shelton
