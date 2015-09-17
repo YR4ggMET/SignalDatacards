@@ -812,7 +812,7 @@ Mgo = Parameter(name = 'Mgo',
 MH01 = Parameter(name = 'MH01',
                  nature = 'external',
                  type = 'real',
-                 value = 110.899057,
+                 value = 125.00,
                  texname = '\\text{MH01}',
                  lhablock = 'MASS',
                  lhacode = [ 25 ])
