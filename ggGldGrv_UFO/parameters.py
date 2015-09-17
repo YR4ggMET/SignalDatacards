@@ -764,7 +764,7 @@ Mneu1 = Parameter(name = 'Mneu1',
 Mneu2 = Parameter(name = 'Mneu2',
                   nature = 'external',
                   type = 'real',
-                  value = 181.088157,
+                  value = 10.00,
                   texname = '\\text{Mneu2}',
                   lhablock = 'MASS',
                   lhacode = [ 1000023 ])
